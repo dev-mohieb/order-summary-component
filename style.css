@@ -91,9 +91,7 @@ body {
     align-items: center;
     gap: 1rem;
 }
-.icon-planbox img {
-    width: 2.4rem;
-}
+
 .submit {
     display: flex;
     flex-direction: column;
@@ -151,5 +149,8 @@ a {
     }
     .submit a {
         font-size: .8rem;
+    }
+    .icon-planbox img {
+        width: 2.4rem;
     }
 }
