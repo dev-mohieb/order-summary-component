@@ -20,12 +20,12 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 1.5rem;
     background: url(pattern-background-mobile.svg);
     background-position: top;
     background-repeat: no-repeat;
     background-color: var(--pale-blue);
     height: 100vh;
+    width: 100%;
 }
 .card {
     background-color: white;
