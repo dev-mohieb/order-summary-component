@@ -18,14 +18,14 @@ html {
 body {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     padding: 1.5rem;
     background: url(pattern-background-mobile.svg);
     background-position: top;
     background-repeat: no-repeat;
     background-color: var(--pale-blue);
-    min-height: 100vh;
+    height: 100vh;
 }
 .card {
     background-color: white;
